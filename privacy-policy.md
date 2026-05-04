@@ -1,4 +1,4 @@
-                    """
+
 Privacy Policy
 
 This Privacy Policy explains how our application collects, uses, and protects your information.
